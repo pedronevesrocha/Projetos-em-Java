@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kagar
+ *
+ */
+module main {
+}
