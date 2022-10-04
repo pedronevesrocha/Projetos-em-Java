@@ -1,8 +1,20 @@
+// Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável SOMA. A seguir escrever o valor desta variável.
 
-public class SomaSimples {
+import java.util.Scanner;
+
+public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		int a;
+		int b;
+		int soma;
+		
+		Scanner input = new Scanner(System.in);
+		a = input.nextInt();
+		b = input.nextInt();
+		soma = a + b;
+		
+		System.out.println("SOMA = " + soma);
 
 	}
 

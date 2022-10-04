@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author kagar
- *
- */
-module main {
-}
